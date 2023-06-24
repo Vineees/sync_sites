@@ -1,0 +1,4 @@
+#NGINX
+ln -s /etc/nginx/sites-available/myapp /etc/nginx/sites-enabled/myapp
+#APACHE
+ln -s /etc/apache2/sites-available/myapp /etc/apache2/sites-enabled/myapp
